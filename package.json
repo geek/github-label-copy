@@ -2,7 +2,7 @@
   "name": "github-label-copy",
   "version": "0.0.3",
   "dependencies": {
-    "node-rest-client": "0.8.x",
+    "node-rest-client": "1.x.x",
     "lodash": "2.4.x",
     "cli": "0.4.x",
     "rsvp": "3.0.x"
